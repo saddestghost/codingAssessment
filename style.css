@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-style: oblique;
+    text-align: center;
+    background-color: #173938;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    background-color: honeydew;
+}
+
+Button {
+    color: black;
+    
+}
